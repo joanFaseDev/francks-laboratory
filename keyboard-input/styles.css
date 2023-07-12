@@ -1,0 +1,11 @@
+#canvas-1 {
+    width: 800px;
+    height: 500px;
+    background-color: #dc9c50;
+    border: 1px solid black;
+    /*Use these 4 properties to quickly center the canvas*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
